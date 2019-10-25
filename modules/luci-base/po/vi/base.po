@@ -308,7 +308,7 @@ msgstr ""
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:915
 #: protocols/luci-proto-ppp/htdocs/luci-static/resources/protocol/pppoa.js:62
 msgid "ATM device number"
-msgstr "Số hiệu thiết bị ATM""
+msgstr "Số hiệu thiết bị ATM"
 
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/index.js:136
 msgid "ATU-C System Vendor ID"
@@ -390,11 +390,11 @@ msgstr "Thêm địa chủ IPv6"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/leds.js:47
 msgid "Add LED action"
-msgstr "Thêm hành động cho LED""
+msgstr "Thêm hành động cho LED"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:215
 msgid "Add VLAN"
-msgstr "thêm VLAN""
+msgstr "thêm VLAN"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/dropbear.js:14
 msgid "Add instance"
@@ -448,7 +448,7 @@ msgstr "Tập tin máy chủ(server) bổ sung"
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/index.js:97
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/index.js:98
 msgid "Address"
-msgstr "Địa chỉ""
+msgstr "Địa chỉ"
 
 #: protocols/luci-proto-relay/htdocs/luci-static/resources/protocol/relay.js:151
 msgid "Address to access local relay bridge"
@@ -488,7 +488,7 @@ msgstr "Giao diện bí danh"
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:138
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/network.js:66
 msgid "Alias of \"%s\""
-msgstr "bí danh của \"%s\"""
+msgstr "bí danh của \"%s\""
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:170
 msgid "All Servers"
@@ -899,7 +899,7 @@ msgstr "Duyệt..."
 
 #: modules/luci-mod-status/luasrc/view/admin_status/index/20-memory.htm:18
 msgid "Buffered"
-msgstr "Đệm""
+msgstr "Đệm"
 
 #: protocols/luci-proto-openconnect/htdocs/luci-static/resources/protocol/openconnect.js:134
 msgid "CA certificate; if empty it will be saved after the first connection."
@@ -1034,7 +1034,7 @@ msgstr "ID máy khách gửi khi yêu cầu DHCP"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/sshkeys.js:143
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/sshkeys.js:149
 msgid "Close"
-msgstr "Đóng""
+msgstr "Đóng"
 
 #: protocols/luci-proto-3g/htdocs/luci-static/resources/protocol/3g.js:157
 #: protocols/luci-proto-ppp/htdocs/luci-static/resources/protocol/ppp.js:141
@@ -1199,7 +1199,7 @@ msgstr "Năng lượng truyền hiện tại"
 #: modules/luci-base/luasrc/view/cbi/network_ifacelist.htm:82
 #: modules/luci-base/luasrc/view/cbi/network_ifacelist.htm:83
 msgid "Custom Interface"
-msgstr "Giao diện kết nối tùy chỉnh""
+msgstr "Giao diện kết nối tùy chỉnh"
 
 #: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/dhcpv6.js:36
 msgid "Custom delegated IPv6-prefix"
@@ -2819,7 +2819,7 @@ msgstr "Phím %d"
 
 #: modules/luci-mod-status/luasrc/model/cbi/admin_status/processes.lua:28
 msgid "Kill"
-msgstr "Kill"
+msgstr "Hủy"
 
 #: protocols/luci-proto-ppp/htdocs/luci-static/resources/protocol/l2tp.js:10
 #: protocols/luci-proto-ppp/luasrc/model/network/proto_ppp.lua:21
@@ -2855,7 +2855,7 @@ msgstr ""
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:290
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:399
 msgid "Label"
-msgstr "Nhãn""
+msgstr "Nhãn"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:204
 msgid "Language"
@@ -3047,7 +3047,7 @@ msgstr "Chỉ dùng dịch vụ cục bộ"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/startup.js:111
 msgid "Local Startup"
-msgstr """
+msgstr "Khởi động cục bộ với hệ thống"
 
 #: modules/luci-mod-status/luasrc/view/admin_status/index/10-system.htm:25
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:112
@@ -3442,7 +3442,7 @@ msgstr "Điều hướng"
 #: modules/luci-mod-status/luasrc/view/admin_status/routes.htm:73
 #: modules/luci-mod-status/luasrc/view/admin_status/routes.htm:101
 msgid "Network"
-msgstr "Mạng lưới "
+msgstr "Mạng "
 
 #: modules/luci-mod-network/luasrc/view/admin_network/diagnostics.htm:64
 msgid "Network Utilities"
@@ -3455,7 +3455,7 @@ msgstr "Tập tin ảnh khởi động mạng"
 #: modules/luci-base/htdocs/luci-static/resources/network.js:13
 #: modules/luci-base/luasrc/model/network.lua:33
 msgid "Network device is not present"
-msgstr "Thiết bị mạng không có""
+msgstr "Thiết bị mạng không có"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/network.js:126
 msgid "Network without interfaces."
@@ -4009,7 +4009,7 @@ msgstr "Đường dẫn tới khoá riêng tư nội bộ"
 #: modules/luci-mod-status/luasrc/view/admin_status/wireless.htm:346
 #: modules/luci-mod-status/luasrc/view/admin_status/wireless.htm:365
 msgid "Peak:"
-msgstr "Đỉnh""
+msgstr "Đỉnh"
 
 #: protocols/luci-proto-pppossh/htdocs/luci-static/resources/protocol/pppossh.js:89
 msgid "Peer IP address to assign"
@@ -4349,7 +4349,7 @@ msgstr "Khởi động lại hệ điều hành của công cụ"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/leds.js:90
 msgid "Receive"
-msgstr "Nhận""
+msgstr "Nhận"
 
 #: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:59
 msgid "Recommended. IP addresses of the WireGuard interface."
@@ -5015,7 +5015,7 @@ msgstr "Tình trạng"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/startup.js:76
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/startup.js:98
 msgid "Stop"
-msgstr "Dừng""
+msgstr "Dừng"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:166
 msgid "Strict order"
@@ -5045,7 +5045,7 @@ msgstr ""
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:135
 #: modules/luci-mod-network/luasrc/controller/admin/network.lua:21
 msgid "Switch"
-msgstr "chuyển đổi"
+msgstr "Chuyển đổi"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:168
 msgid "Switch %q"
@@ -5150,7 +5150,7 @@ msgstr "Mạng đích"
 
 #: modules/luci-mod-status/luasrc/model/cbi/admin_status/processes.lua:22
 msgid "Terminate"
-msgstr "Terminate"
+msgstr "Kết thúc"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:120
 msgid "The <em>block mount</em> command failed with code %d"
@@ -5383,7 +5383,7 @@ msgid ""
 "There is no password set on this router. Please configure a root password to "
 "protect the web interface and enable SSH."
 msgstr ""
-"Không có mật khẩu nào được đặt trên bộ định tuyến này. Vui lòng định cấu hình "
+"Không có mật khẩu nào được đặt trên thiết bị. Vui lòng định cấu hình "
 "mật khẩu gốc để bảo vệ giao diện web và bật SSH."
 
 #: protocols/luci-proto-ipv6/htdocs/luci-static/resources/protocol/6rd.js:49
@@ -5472,7 +5472,7 @@ msgid ""
 "This list gives an overview over currently running system processes and "
 "their status."
 msgstr ""
-"List này đưa ra một tầm nhìn tổng quát về xử lý hệ thống đang chạy và tình "
+"Danh sách này đưa ra một tầm nhìn tổng quát về tiến trình hệ thống đang chạy và tình "
 "trạng của chúng."
 
 #: modules/luci-mod-status/luasrc/view/admin_status/connections.htm:343
@@ -6031,7 +6031,7 @@ msgstr "Cảnh báo: Những thay đổi chưa lưu có thể mất khi khởi �
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/password.js:34
 msgid "Weak"
-msgstr "Yếu""
+msgstr "Yếu"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1356
 msgid ""
